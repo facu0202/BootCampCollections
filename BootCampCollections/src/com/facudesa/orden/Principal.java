@@ -9,7 +9,7 @@ public class Principal {
 	public static void main(String[] args) {
 
 		ArrayList<Persona> milista = new ArrayList<Persona>();
-		milista.add(new Persona("Facu"));
+		milista.add(new Persona("Facu555"));
 		milista.add(new Persona("Facu2"));
 
 		Collections.sort(milista, new Comparator<Persona>() {
